@@ -6,6 +6,8 @@ In a short period, Louise’s play Fever came very close to its fundraising goal
 **Purpose**: 
 This exercise aims to submit a written report to Louise basis the analysis & visualization of campaign outcomes based on their launch dates and funding goals using the Kickstarter data set.
 
+
+
 2.**Analysis**: 
 I had based my analysis on 2 areas
 -	How do Outcomes measure against the different Launch Dates?
@@ -30,6 +32,8 @@ In this case, the quality (meaningful) of data was good, and it made the analysi
 -	Data Sources: Trying to analyze data from multiple, disjointed sources. Data being available in silos and not in a centralized system.
 -	Accessibility of data: ease of access is critical.
 -	Scaling of data: As data grows, we need better systems and processes to provide meaningful analysis.
+
+
 
 
 3. **Results**
