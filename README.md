@@ -1,33 +1,38 @@
 #**Overview of Project**
 
-##**Background**: In a short period, Louise’s play Fever came very close to its fundraising goal. The fundraising was initiated in June 2015 and ended in July 2015. During this period, against a plan of `$`2885, Louise was able to raise `$`2485, which was around 86`%` of the goal. The average donation of `$` 248.5 was high, but only ten backers were for the donation drive. Given this background, Louise wanted to understand if there was a correlation between the launch dates of the different Plays and their subsequent funding goals.
+##**Background**: 
+In a short period, Louise’s play Fever came very close to its fundraising goal. The fundraising was initiated in June 2015 and ended in July 2015. During this period, against a plan of `$`2885, Louise was able to raise `$`2485, which was around 86`%` of the goal. The average donation of `$` 248.5 was high, but only ten backers were for the donation drive. Given this background, Louise wanted to understand if there was a correlation between the launch dates of the different Plays and their subsequent funding goals.
 
-##**Purpose**: This exercise aims to submit a written report to Louise basis the analysis & visualization of campaign outcomes based on their launch dates and funding goals using the Kickstarter data set.
+##**Purpose**: 
+This exercise aims to submit a written report to Louise basis the analysis & visualization of campaign outcomes based on their launch dates and funding goals using the Kickstarter data set.
 
-##**Analysis**: I had based my analysis on 2 areas
-•	How do Outcomes measure against the different Launch Dates?
+##**Analysis**: 
+I had based my analysis on 2 areas
+-	How do Outcomes measure against the different Launch Dates?
 
 The analysis is done using a Pivot Chart, and the final output is presented with the help of a Line chart where the different types of outcomes for all the Plays in the US market (successful/ failed and canceled) are plotted across the period Jan-Dec for the year 2015.
 
 <img width="352" alt="image" src="https://user-images.githubusercontent.com/111800568/187573440-4e1359d2-73d8-428e-8443-d52c44044dc0.png">
 
-•	How do Outcomes measure in comparison to funding goals?
+-	How do Outcomes measure in comparison to funding goals?
 
 The 2nd analysis was to check the relation between funding goals and the different outcomes for the Plays. First the funding goals data was grouped. The percentage of successful, failed, and canceled plays (outcomes) was calculated. The final output is presented with the help of a line chart.
 
 <img width="360" alt="image" src="https://user-images.githubusercontent.com/111800568/187573546-329c2736-1133-47a6-b475-e82f0d23c83e.png">
 
-##**Challenges & Difficulties with data**: In this case, the quality (meaningful) of data was good, and it made the analysis job straightforward. The quantum of data was not very high, there were around 1000 plus data points to analyze. I was manually able to sift through the data which helped me get insights on what is happening. 
+**Challenges & Difficulties with data**: 
+In this case, the quality (meaningful) of data was good, and it made the analysis job straightforward. The quantum of data was not very high, there were around 1000 plus data points to analyze. I was manually able to sift through the data which helped me get insights on what is happening. 
 
 ***Listing down possible challenges and difficulties with data***
-a.	Amount of data being collected: Parameters like quantity and methods of collection (manual or auto).
-b.	Quality of data: Collecting meaningful and real-time data. 
-c.	Data Sources: Trying to analyze data from multiple, disjointed sources. Data being available in silos and not in a centralized system.
-d.	Accessibility of data: ease of access is critical.
-e.	Scaling of data: As data grows, we need better systems and processes to provide meaningful analysis.
+
+-	Amount of data being collected: Parameters like quantity and methods of collection (manual or auto).
+-	Quality of data: Collecting meaningful and real-time data. 
+-	Data Sources: Trying to analyze data from multiple, disjointed sources. Data being available in silos and not in a centralized system.
+-	Accessibility of data: ease of access is critical.
+-	Scaling of data: As data grows, we need better systems and processes to provide meaningful analysis.
 
 
-##**Results**
+**Results**
 
 The **2 possible conclusions** which we can draw basis **the Theater outcomes by launch Date**
 -	The best months for staging the plays are May and June. In both these months, the number of plays which had a successful outcome was the highest. 
