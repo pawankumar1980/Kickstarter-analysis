@@ -1,12 +1,12 @@
-#**Overview of Project**
+1. **Overview of Project**
 
-##**Background**: 
+**Background**: 
 In a short period, Louise’s play Fever came very close to its fundraising goal. The fundraising was initiated in June 2015 and ended in July 2015. During this period, against a plan of `$`2885, Louise was able to raise `$`2485, which was around 86`%` of the goal. The average donation of `$` 248.5 was high, but only ten backers were for the donation drive. Given this background, Louise wanted to understand if there was a correlation between the launch dates of the different Plays and their subsequent funding goals.
 
-##**Purpose**: 
+**Purpose**: 
 This exercise aims to submit a written report to Louise basis the analysis & visualization of campaign outcomes based on their launch dates and funding goals using the Kickstarter data set.
 
-##**Analysis**: 
+2.**Analysis**: 
 I had based my analysis on 2 areas
 -	How do Outcomes measure against the different Launch Dates?
 
@@ -32,7 +32,7 @@ In this case, the quality (meaningful) of data was good, and it made the analysi
 -	Scaling of data: As data grows, we need better systems and processes to provide meaningful analysis.
 
 
-**Results**
+3. **Results**
 
 The **2 possible conclusions** which we can draw basis **the Theater outcomes by launch Date**
 -	The best months for staging the plays are May and June. In both these months, the number of plays which had a successful outcome was the highest. 
