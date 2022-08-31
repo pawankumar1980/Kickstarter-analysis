@@ -8,7 +8,7 @@ This exercise aims to submit a written report to Louise basis the analysis & vis
 
 
 
-2.**Analysis**: 
+2. **Analysis**: 
 I had based my analysis on 2 areas
 -	How do Outcomes measure against the different Launch Dates?
 
