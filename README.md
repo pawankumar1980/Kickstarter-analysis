@@ -1,6 +1,6 @@
 #**Overview of Project**
 
-##**Background**: In a short period, Louise’s play Fever came very close to its fundraising goal. The fundraising was initiated in June 2015 and ended in July 2015. During this period, against a plan of \$2885, Louise was able to raise \$2485, which was around 86\% of the goal. The average donation of \$ 248.5 was high, but only ten backers were for the donation drive. Given this background, Louise wanted to understand if there was a correlation between the launch dates of the different Plays and their subsequent funding goals.
+##**Background**: In a short period, Louise’s play Fever came very close to its fundraising goal. The fundraising was initiated in June 2015 and ended in July 2015. During this period, against a plan of `$`2885, Louise was able to raise `$`2485, which was around 86`%` of the goal. The average donation of `$` 248.5 was high, but only ten backers were for the donation drive. Given this background, Louise wanted to understand if there was a correlation between the launch dates of the different Plays and their subsequent funding goals.
 
 ##**Purpose**: This exercise aims to submit a written report to Louise basis the analysis & visualization of campaign outcomes based on their launch dates and funding goals using the Kickstarter data set.
 
@@ -30,21 +30,21 @@ e.	Scaling of data: As data grows, we need better systems and processes to provi
 ##**Results**
 
 The **2 possible conclusions** which we can draw basis **the Theater outcomes by launch Date**
-	The best months for staging the plays are May and June. In both these months, the number of plays which had a successful outcome was the highest. 
-	The months of July, August and October saw a high percentage of failed outcomes for goal funding (% of total outcomes in that month)
+-	The best months for staging the plays are May and June. In both these months, the number of plays which had a successful outcome was the highest. 
+-	The months of July, August and October saw a high percentage of failed outcomes for goal funding (% of total outcomes in that month)
 
 The **possible conclusions** which we can draw basis **the Outcomes by Launch date**
-	The highest percentage of successful outcomes was seen when the funding goal was below $1000 or between $1000 and $5000. The maximum numbers of Plays with funding goals also fall in these 2 buckets.
-	The percentage of failed outcomes crossed 50% when the funding goal increased beyond $5000. In most of the cases, there was a higher chance of failure for higher funding goals (> than $5000)
+-	The highest percentage of successful outcomes was seen when the funding goal was below $1000 or between $1000 and $5000. The maximum numbers of Plays with funding goals also fall in these 2 buckets.
+-	The percentage of failed outcomes crossed 50% when the funding goal increased beyond $5000. In most of the cases, there was a higher chance of failure for higher funding goals (> than $5000)
 
 **Possible Limitations of this Data Set**
-	Reasons for the success of an outcome are not given. Some Plays have a successful outcome in a month in a particular country and, at the same time not being successful in another country in the same month. For e.g., at an overall level, the number of successful outcomes for the sub-category Plays was high in June, but when we filter the US market, it is very low, and vice versa for July.
-	Data points at a sub-category/month/country level may not be sufficient (statistical analysis)
+-	Reasons for the success of an outcome are not given. Some Plays have a successful outcome in a month in a particular country and, at the same time not being successful in another country in the same month. For e.g., at an overall level, the number of successful outcomes for the sub-category Plays was high in June, but when we filter the US market, it is very low, and vice versa for July.
+-	Data points at a sub-category/month/country level may not be sufficient (statistical analysis)
 
 **Other Possible Tables and/or graphs that I could create**
-	The above data can also be represented using the bar graphs.
-	Outcomes by launch date for plays staged in US (country filter) for the year 2016 (Year Filter)
-	Statistical charts: Histograms and Box charts (check spread- goals, pledged amount)
+-	The above data can also be represented using the bar graphs.
+-	Outcomes by launch date for plays staged in US (country filter) for the year 2016 (Year Filter)
+-	Statistical charts: Histograms and Box charts (check spread- goals, pledged amount)
 
 
 
